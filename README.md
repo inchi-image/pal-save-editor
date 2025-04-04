@@ -1,0 +1,1 @@
+# pal-save-editor
